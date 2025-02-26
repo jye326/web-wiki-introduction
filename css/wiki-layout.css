@@ -50,6 +50,7 @@ h2.title {
 h3.subtitle {
   font-size: 1.6rem;
   margin: var(--page-subtitle-margin-y) 0;
+  display: block;
 }
 
 h4 {
